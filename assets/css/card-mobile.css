@@ -1,26 +1,26 @@
 @font-face {
     font-family: CavergizItalic;
-    src: url(/assets/fonts/CavergizItalic-MVjle.ttf);
+    src: url('/3PanelRetroWebsite/assets/fonts/CavergizItalic-MVjle.ttf');
 }
 
 @font-face {
     font-family: Hafigde;
-    src: url(/assets/fonts/Hafigde-Italic-BF64128ee1d1c38.otf);
+    src: url('/3PanelRetroWebsite/assets/fonts/Hafigde-Italic-BF64128ee1d1c38.otf');
 }
 
 @font-face {
     font-family: Matcha;
-    src: url(/assets/fonts/matchaserif-regular.ttf);
+    src: url('/3PanelRetroWebsite/assets/fonts/matchaserif-regular.ttf');
 }
 
 @font-face {
     font-family: Voigante;
-    src: url(/assets/fonts/voigantedisplay.ttf);
+    src: url('/3PanelRetroWebsite/assets/fonts/voigantedisplay.ttf');
 }
 
 @font-face {
     font-family: Antonellie;
-    src: url('/assets/fonts/Antonellie Callygraphy Demo.ttf');
+    src: url('/3PanelRetroWebsite/assets/fonts/Antonellie Callygraphy Demo.ttf');
 }
 
 
